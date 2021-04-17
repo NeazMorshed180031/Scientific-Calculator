@@ -1,4 +1,5 @@
 # Scientific-Calculator
+This Calculator can convert unit and calculate very precisely. This calculator have been made according to the requirement of Mars Climate Orbiter Project. The Mars Climate Orbiter project was Conducted by NASA in 1998. This calculator have been created according to the actual requirement of Mars Climate Orbiter failure.
 ![Capture2](https://user-images.githubusercontent.com/80017048/115108877-685d8b00-9f90-11eb-9b7b-3f560ffa1d04.JPG)
 ![Capture3](https://user-images.githubusercontent.com/80017048/115108878-6a274e80-9f90-11eb-8d9a-4590458538ab.JPG)
 ![Capture4](https://user-images.githubusercontent.com/80017048/115108880-6abfe500-9f90-11eb-8b13-75a8fa768ef8.JPG)
