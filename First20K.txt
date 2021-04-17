@@ -1,0 +1,70 @@
+Demonstration
+ExpressionOne
+
+	j=2+3+5+7
+	
+
+
+
+
+
+
+
+
+
+ExpressionTwo
+
+	(8*8-(7+6))/3
+
+
+
+
+
+
+
+
+Morshed
+
+	M=3+(8*7-5)
+
+
+Neaz
+
+	N=1+8+1-(7*7)+(9*9)
+
+
+ProgramOne
+
+	print "Enter the value of a"
+	input a=5
+	input b=7
+	input c=88
+	input d=99
+	input e=4
+	Difference=(a+b+c)*(d+e)
+	print Difference
+
+
+
+
+ProgramTwo
+
+	print "Enter the value of a"
+	input a=
+	print "Enter the value of b"
+	input b=
+	print "Enter the value of c"
+	input c=
+	print "Enter the value of d"
+	input d=
+	Sum=(a+b+c)*d
+	print Sum
+
+
+
+
+
+
+
+
+
